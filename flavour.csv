@@ -1,19 +1,19 @@
-No,Name,Flavour
-1,John,Pepperoni
-2,Mary,Cheese
-3,Tim,Mushroom
-4,Erin,Ham
-5,Bob,Onion
-6,William,Seafood
-7,Nancy,Satay
-8,Peter,Supreme
-9,Samantha,Sausage
-10,John,Pepperoni
-11,Mary,Cheese
-12,Tim,Mushroom
-13,Erin,Ham
-14,Bob,Onion
-15,William,Seafood
-16,Nancy,Satay
-17,Peter,Supreme
-18,Samantha,Sausage
+No,Name,Flavour, Price
+1,John,Pepperoni, 30
+2,Mary,Cheese, 32
+3,Tim,Mushroom, 25
+4,Erin,Ham, 32
+5,Bob,Onion,20
+6,William,Seafood,40
+7,Nancy,Satay, 30
+8,Peter,Supreme, 34
+9,Samantha,Sausage, 30
+10,George,Pepperoni,28
+11,Lisa,Cheese, 25
+12,Kim,Mushroom, 25
+13,Steven,Ham, 32
+14,Sarah,Onion, 20
+15,Lious ,Seafood, 40
+16,Hallard,Satay, 30
+17,Peterson,Supreme, 34
+18,Samantha,Sausage, 30
